@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stepanykdmytro/cat-facts.git"
+    "url": "https://github.com/stepanykdmytro/cat-facts.git"
   },
   "dependencies": {
     "cat-facts-cr": "1.0.0",
